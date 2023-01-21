@@ -1,0 +1,14 @@
+<rss version="2.0">
+	<channel>
+		<item>
+			<title>Explore new TV shows</title>
+			<description>Keep yourself updated on the Nordic true crime shows</description>
+			<link></link>
+		</item>
+		<item>
+			<title>Exclusive footage</title>
+			<description>New behind-the-scenes footage of shows and films in the making</description>
+			<link></link>
+		</item>
+	</channel>
+</rss>
